@@ -1,4 +1,4 @@
-# Advice
+# Reason
 Thinking about the reversal, we've decided to only share what's necessary for now. We're optimistic they'll get better, but it's hard to ignore their past track record, and this situation definitely feels related to that.
 
 # Reversal
