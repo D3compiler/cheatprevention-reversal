@@ -1,0 +1,1714 @@
+[
+  {
+    "string": "xenon.exe",
+    "stringDetection": "Xenon Loader"
+  },
+  {
+    "string": "appmgmts.exe",
+    "stringDetection": "Monesy Bypass"
+  },
+  {
+    "string": "build_31.exe",
+    "stringDetection": "Unicor Cheat"
+  },
+  {
+    "string": "negroserio_protected.exe",
+    "stringDetection": "Xenon/Frozer Loader"
+  },
+  {
+    "string": "AcreV2.exe",
+    "stringDetection": "Acre Loader"
+  },
+  {
+    "string": "AcreV2.rar",
+    "stringDetection": "Acre Cheat"
+  },
+  {
+    "string": "Escape Service MOD.exe",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "PvP-Password escape.rar",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "TDLoader",
+    "stringDetection": "TDLoader Cheat"
+  },
+  {
+    "string": "TDLoader.rar",
+    "stringDetection": "TDLoader Cheat"
+  },
+  {
+    "string": "spoofer",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "\\woofer",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "woofer.rar",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "woofer.exe",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "koppetta.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "kOPPETTA.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "kOPPETTA",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "noxspoofer.exe",
+    "stringDetection": "Nox Spoofer"
+  },
+  {
+    "string": "MrMenu V2.0.lua",
+    "stringDetection": "MrMenu Lua Menu"
+  },
+  {
+    "string": "extarnel.rar",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "Silence-v2",
+    "stringDetection": "Silence Cheat"
+  },
+  {
+    "string": "mindselling_external.exe",
+    "stringDetection": "Mindselling External"
+  },
+  {
+    "string": "malaia.cc",
+    "stringDetection": "Malaia.cc Cheat"
+  },
+  {
+    "string": "extarnel.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "External_V3.exe",
+    "stringDetection": "Atikos V3"
+  },
+  {
+    "string": "Atikos",
+    "stringDetection": "Atikos Cheat"
+  },
+  {
+    "string": "atikos",
+    "stringDetection": "Atikos Cheat"
+  },
+  {
+    "string": "bypass.exe",
+    "stringDetection": "Generic Bypass"
+  },
+  {
+    "string": "keyser.exe",
+    "stringDetection": "Keyser Woofer"
+  },
+  {
+    "string": "plugins\\d3d6.dll",
+    "stringDetection": "Suspicious DLL"
+  },
+  {
+    "string": "plugins\\d3d7.dll",
+    "stringDetection": "Suspicious DLL"
+  },
+  {
+    "string": "plugins\\d3d8.dll",
+    "stringDetection": "Suspicious DLL"
+  },
+  {
+    "string": "plugins\\d3d9.dll",
+    "stringDetection": "Suspicious DLL"
+  },
+  {
+    "string": "plugins\\d3d10.dll",
+    "stringDetection": "Suspicious DLL"
+  },
+  {
+    "string": "plugins\\d3d11.dll",
+    "stringDetection": "Suspicious DLL"
+  },
+  {
+    "string": "Downloads\\d3d6.dll",
+    "stringDetection": "Suspicious DLL Downloaded"
+  },
+  {
+    "string": "Downloads\\d3d7.dll",
+    "stringDetection": "Suspicious DLL Downloaded"
+  },
+  {
+    "string": "Downloads\\d3d8.dll",
+    "stringDetection": "Suspicious DLL Downloaded"
+  },
+  {
+    "string": "Downloads\\d3d9.dll",
+    "stringDetection": "Suspicious DLL Downloaded"
+  },
+  {
+    "string": "Downloads\\d3d10.dll",
+    "stringDetection": "Suspicious DLL Downloaded"
+  },
+  {
+    "string": "Downloads\\d3d11.dll",
+    "stringDetection": "Suspicious DLL Downloaded"
+  },
+  {
+    "string": "loader_prod.exe",
+    "stringDetection": "Eulen Cheat"
+  },
+  {
+    "string": "loader_prod.exe",
+    "stringDetection": "Eulen Detected"
+  },
+  {
+    "string": "loader_prod.cfg",
+    "stringDetection": "Eulen Cheat"
+  },
+  {
+    "string": "password_is_eulen.rar",
+    "stringDetection": "Eulen Cheat"
+  },
+  {
+    "string": "KHUB LAUNCHER",
+    "stringDetection": "KHUB Cheat"
+  },
+  {
+    "string": "KHUBLauncher.exe",
+    "stringDetection": "KHUB Cheat"
+  },
+  {
+    "string": "KHUBLauncherV3.4.rar",
+    "stringDetection": "KHUB Cheat"
+  },
+  {
+    "string": "KHUBLauncherV",
+    "stringDetection": "KHUB Cheat"
+  },
+  {
+    "string": "SetupKHUB OFFICIAL.msi",
+    "stringDetection": "KHUB Cheat"
+  },
+  {
+    "string": "fvmkhub.exe",
+    "stringDetection": "KHUB Cheat"
+  },
+  {
+    "string": "settings.cock",
+    "stringDetection": "redEngine Executor"
+  },
+  {
+    "string": "public.zip",
+    "stringDetection": "redEngine Executor"
+  },
+  {
+    "string": "public.zip (1)",
+    "stringDetection": "redEngine Executor"
+  },
+  {
+    "string": "public.zip (2)",
+    "stringDetection": "redEngine Executor"
+  },
+  {
+    "string": "public.zip (3)",
+    "stringDetection": "redEngine Executor"
+  },
+  {
+    "string": "Often.exe",
+    "stringDetection": "redEngine Executor"
+  },
+  {
+    "string": "TZ.zip",
+    "stringDetection": "TZ Cheat Loader"
+  },
+  {
+    "string": "TZX.zip",
+    "stringDetection": "TZX Cheat Loder"
+  },
+  {
+    "string": "USBDeview.exe",
+    "stringDetection": "Suspicious File - usbdeview.exe"
+  },
+  {
+    "string": "USBDeview.dll",
+    "stringDetection": "Suspicious DLL - usbdeview.dll"
+  },
+  {
+    "string": "usbdeview-x64.rar",
+    "stringDetection": "Suspicious File - usbdeview-x64.rar"
+  },
+  {
+    "string": "usbdeview-x64 (1).rar",
+    "stringDetection": "Suspicious File - usbdeview-x64.rar"
+  },
+  {
+    "string": "usbdeview-x64 (1).rar",
+    "stringDetection": "Suspicious File - usbdeview-x64.rar"
+  },
+  {
+    "string": "usbdeview-x64 (3).rar",
+    "stringDetection": "Suspicious File - usbdeview-x64.rar"
+  },
+  {
+    "string": "ESCAPE SERVICE.exe",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "Escape Service Cheat[Free].exe",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "Escape Service Cheat[Free].rar",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "Escape-Menu.rar",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "Clean_App_Xbox.bat",
+    "stringDetection": "Escape Cleaner"
+  },
+  {
+    "string": "Escape_Cleaner.bat",
+    "stringDetection": "Escape Cleaner"
+  },
+  {
+    "string": "cleaner.bat",
+    "stringDetection": "Escape Cleaner"
+  },
+  {
+    "string": "avorites.cfg",
+    "stringDetection": "Susano Cheat"
+  },
+  {
+    "string": "\\spoofer.exe",
+    "stringDetection": "Suspicious File - spoofer.exe"
+  },
+  {
+    "string": "hkr spoofer.exe",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "La Vendetta Temp Spoofer",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "blackout.exe",
+    "stringDetection": "Blackout Cheat"
+  },
+  {
+    "string": "Cobra Loader.exe",
+    "stringDetection": "Cobra Loader"
+  },
+  {
+    "string": "Free Cobra Loader.exe",
+    "stringDetection": "Free Cobra Loader"
+  },
+  {
+    "string": "FXcheat.exe",
+    "stringDetection": "FX Cheat"
+  },
+  {
+    "string": "TDLoader.exe",
+    "stringDetection": "TD Cheat"
+  },
+  {
+    "string": "\\loader.exe",
+    "stringDetection": "Suspicious File - loader.exe"
+  },
+  {
+    "string": "Veax External.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "Veax EXT.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "Fivem-External.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "fivem-external.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "Evading.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "Dragon Launcher.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "mxrcy.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "tdpremium.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "ProjectLoader.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "Component.dll",
+    "stringDetection": "Generic Cheat DLL"
+  },
+  {
+    "string": "RWipeAndClean20.exe",
+    "stringDetection": "RWipe Cleaner"
+  },
+  {
+    "string": "hwid.exe",
+    "stringDetection": "Suspicious File - hwid.exe"
+  },
+  {
+    "string": "hwid_get.exe",
+    "stringDetection": "Generic HWID Grabber"
+  },
+  {
+    "string": "dControl.exe",
+    "stringDetection": "Sordum Defender Control"
+  },
+  {
+    "string": "Defender Control",
+    "stringDetection": "Windows Defender Disabled"
+  },
+  {
+    "string": "ccleaner64.exe",
+    "stringDetection": "Generic Cleaner"
+  },
+  {
+    "string": "CCleaner.exe",
+    "stringDetection": "Generic Cleaner"
+  },
+  {
+    "string": "NoProps.rar",
+    "stringDetection": "Generic RPF Cheat"
+  },
+  {
+    "string": "Remove_Roll.rpf",
+    "stringDetection": "Generic RPF Cheat"
+  },
+  {
+    "string": "aimbot.rpf",
+    "stringDetection": "Generic RPF Cheat"
+  },
+  {
+    "string": "hitbox.rpf",
+    "stringDetection": "Generic RPF Cheat"
+  },
+  {
+    "string": "silent.rpf",
+    "stringDetection": "Generic RPF Cheat"
+  },
+  {
+    "string": "_GamboHub.rar",
+    "stringDetection": "GamboHub File - _GamboHub.rar"
+  },
+  {
+    "string": "GamboHub.rar",
+    "stringDetection": "GamboHub File - GamboHub.rar"
+  },
+  {
+    "string": "Escape Service MOD.exe",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "spoofer",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "Keyser.exe",
+    "stringDetection": "Keyser Woofer"
+  },
+  {
+    "string": "tdpremium.exe",
+    "stringDetection": "TD Cheat"
+  },
+  {
+    "string": "spoofer",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "redengine.eu",
+    "stringDetection": "redEngine Client"
+  },
+  {
+    "string": "auth.redengine.eu",
+    "stringDetection": "redEngine Client"
+  },
+  {
+    "string": "0x1285000",
+    "stringDetection": "Xenon Cheat"
+  },
+  {
+    "string": "0x75f000",
+    "stringDetection": "Sicario Cheat"
+  },
+  {
+    "string": "0x156000",
+    "stringDetection": "Acre Cheat"
+  },
+  {
+    "string": "0x164000",
+    "stringDetection": "SilentMafia Cheat"
+  },
+  {
+    "string": "0xa94000",
+    "stringDetection": "Project TX Cheat"
+  },
+  {
+    "string": "0x15d000",
+    "stringDetection": "Project YX Cheat"
+  },
+  {
+    "string": "0xABEA2F",
+    "stringDetection": "Project Loader"
+  },
+  {
+    "string": "0x1abf000",
+    "stringDetection": "Generic Bypass"
+  },
+  {
+    "string": "0xcbb000",
+    "stringDetection": "Escape Serivce"
+  },
+  {
+    "string": "0xD06342",
+    "stringDetection": "Susano Cheat"
+  },
+  {
+    "string": "0x169000",
+    "stringDetection": "Sucuni Cheat"
+  },
+  {
+    "string": "0x126000",
+    "stringDetection": "EX Cheat"
+  },
+  {
+    "string": "0xe54000",
+    "stringDetection": "TZX Loader"
+  },
+  {
+    "string": "spoofer",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "0x1d0000",
+    "stringDetection": "Nox Spoofer"
+  },
+  {
+    "string": "0xb20247",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "0xa1700",
+    "stringDetection": "TZ Cheat"
+  },
+  {
+    "string": "0x9ddd03",
+    "stringDetection": "TZX Cheat"
+  },
+  {
+    "string": "0x22b000",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "0x9EDD45",
+    "stringDetection": "Escape Servie Loader"
+  },
+  {
+    "string": "0x10a6000",
+    "stringDetection": "Xnine Cheat"
+  },
+  {
+    "string": "0x1f0000",
+    "stringDetection": "TD Cheat"
+  },
+  {
+    "string": "0x23b000",
+    "stringDetection": "Silence v2 Cheat"
+  },
+  {
+    "string": "0x141000",
+    "stringDetection": "Malaia.cc Cheat"
+  },
+  {
+    "string": "0x157000",
+    "stringDetection": "Atikos V3"
+  },
+  {
+    "string": "0x2fbb000",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "0x21c0000",
+    "stringDetection": "420 Woofer"
+  },
+  {
+    "string": "0x1807000",
+    "stringDetection": "420 Woofer"
+  },
+  {
+    "string": "0x1ce5000",
+    "stringDetection": "420 Woofer"
+  },
+  {
+    "string": "tdpremium.exe",
+    "stringDetection": "TD Cheat"
+  },
+  {
+    "string": "FXcheat.exe",
+    "stringDetection": "FX Cheat"
+  },
+  {
+    "string": "0x2799000",
+    "stringDetection": "redEngine Executor"
+  },
+  {
+    "string": "0x8f000",
+    "stringDetection": "KHUB Cheat"
+  },
+  {
+    "string": "0xeff000",
+    "stringDetection": "TZX Cheat"
+  },
+  {
+    "string": "0x2e1f000",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "0x4630000",
+    "stringDetection": "Xenon Loader"
+  },
+  {
+    "string": "0x46000",
+    "stringDetection": "Projec Cheats"
+  },
+  {
+    "string": "0xe8000",
+    "stringDetection": "TDPremium"
+  },
+  {
+    "string": "0x246000",
+    "stringDetection": "Skript Loader"
+  },
+  {
+    "string": "0x2ea6000",
+    "stringDetection": "Eulen Cheats"
+  },
+  {
+    "string": "0xedf000",
+    "stringDetection": "777 Spoofer Loader"
+  },
+  {
+    "string": "0x2662C6",
+    "stringDetection": "Skript Loader"
+  },
+  {
+    "string": "0xce2000",
+    "stringDetection": "Keyser Cheat"
+  },
+  {
+    "string": "0xa000",
+    "stringDetection": "Keyser HWID Grabber"
+  },
+  {
+    "string": "0x17db000",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "0x274000",
+    "stringDetection": "TD Loader"
+  },
+  {
+    "string": "0x9FD9E2",
+    "stringDetection": "Amient Cheat"
+  },
+  {
+    "string": "0x3670000",
+    "stringDetection": "FlySide Cheat"
+  },
+  {
+    "string": "0x157000",
+    "stringDetection": "SBS.CC Cheat"
+  },
+  {
+    "string": "0xc96000",
+    "stringDetection": "Mega PvP Cheat"
+  },
+  {
+    "string": "0x94a000",
+    "stringDetection": "TZ Cheat"
+  },
+  {
+    "string": "!2024/10/20:16:37:58",
+    "stringDetection": "Xenon Cheat"
+  },
+  {
+    "string": "!2023/06/24:17:25:46",
+    "stringDetection": "Monesy Bypass"
+  },
+  {
+    "string": "!2024/03/21:21:27:56",
+    "stringDetection": "Sicario Cheat"
+  },
+  {
+    "string": "2023/12/02:23:52:15",
+    "stringDetection": "OVProjects Cheat"
+  },
+  {
+    "string": "2024/02/10:11:38:02",
+    "stringDetection": "Paradise Software"
+  },
+  {
+    "string": "2024/04/03:15:54:22",
+    "stringDetection": "88Cheats Loader"
+  },
+  {
+    "string": "2024/02/15:15:24:13",
+    "stringDetection": "Unicor Cheat"
+  },
+  {
+    "string": "!2024/03/18:18:34:18",
+    "stringDetection": "Frozer Client"
+  },
+  {
+    "string": "!2024/03/24:19:20:24",
+    "stringDetection": "Acre Cheat"
+  },
+  {
+    "string": "!2024/03/24:14:51:16",
+    "stringDetection": "Acre Cheat"
+  },
+  {
+    "string": "!2023/03/11:14:46:52",
+    "stringDetection": "SilentMafia Cheat"
+  },
+  {
+    "string": "!2023/09/28:02:48:20",
+    "stringDetection": "Project YX Cheat"
+  },
+  {
+    "string": "!2023/08/21:23:39:49",
+    "stringDetection": "Project YX Loader"
+  },
+  {
+    "string": "!2024/10/03:20:30:43",
+    "stringDetection": "Project Cheat"
+  },
+  {
+    "string": "!2024/08/03:00:31:22",
+    "stringDetection": "Generic Bypass"
+  },
+  {
+    "string": "!2024/08/24:00:37:10",
+    "stringDetection": "Escape Loader"
+  },
+  {
+    "string": "!2024/02/13:02:18:00",
+    "stringDetection": "TS3 Cheat"
+  },
+  {
+    "string": "!2024/10/03:20:48:21",
+    "stringDetection": "Susano Cheat"
+  },
+  {
+    "string": "!2024/05/11:10:18:14",
+    "stringDetection": "Sucuni Cheat"
+  },
+  {
+    "string": "2024/05/24:16:03:57",
+    "stringDetection": "Red Engine Cheat"
+  },
+  {
+    "string": "!2024/04/21:16:23:42",
+    "stringDetection": "EX Cheat"
+  },
+  {
+    "string": "!2024/10/04:19:25:15",
+    "stringDetection": "TZX Loader"
+  },
+  {
+    "string": "\\spoofer.exe",
+    "stringDetection": "Suspicious File - spoofer.exe"
+  },
+  {
+    "string": "!2024/10/02:20:27:31",
+    "stringDetection": "Nox Spoofer"
+  },
+  {
+    "string": "!2024/10/03:19:32:12",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "!2024/05/10:18:00:55",
+    "stringDetection": "TZ Cheat"
+  },
+  {
+    "string": "!2024/10/03:19:38:22",
+    "stringDetection": "TZX Cheat"
+  },
+  {
+    "string": "!2024/09/06:22:32:23",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "!2024/10/03:20:44:21",
+    "stringDetection": "Escape Loader"
+  },
+  {
+    "string": "!2024/10/03:16:12:23",
+    "stringDetection": "Xnine Cheat"
+  },
+  {
+    "string": "!2024/02/23:13:10:13",
+    "stringDetection": "TD Cheat"
+  },
+  {
+    "string": "!2024/02/21:17:36:14",
+    "stringDetection": "Silence-v2 Cheat"
+  },
+  {
+    "string": "!2023/12/06:22:05:33",
+    "stringDetection": "Mindselling External"
+  },
+  {
+    "string": "!2024/01/27:20:27:59",
+    "stringDetection": "Malaia.cc Cheat"
+  },
+  {
+    "string": "!2023/10/14:02:28:07",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "!2024/01/27:12:07:24",
+    "stringDetection": "Atikos V3"
+  },
+  {
+    "string": "!2024/01/27:22:09:53",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "!2024/08/10:18:50:42",
+    "stringDetection": "Generic Woofer"
+  },
+  {
+    "string": "!2024/10/17:20:37:43",
+    "stringDetection": "420 Woofer"
+  },
+  {
+    "string": "!2024/10/15:00:23:52",
+    "stringDetection": "420 Woofer"
+  },
+  {
+    "string": "!2024/10/13:02:48:51",
+    "stringDetection": "420 Woofer"
+  },
+  {
+    "string": "tdpremium.exe",
+    "stringDetection": "TD Cheat"
+  },
+  {
+    "string": "Escape Service Cheat[Free].exe",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "!2023/12/13:20:14:01",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "!2023/12/13:20:14:01",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "!!launcher.exe",
+    "stringDetection": "Possible Gosth External"
+  },
+  {
+    "string": "!2024/06/03:19:28:43",
+    "stringDetection": "Blackout Cheat"
+  },
+  {
+    "string": "!!blackout.exe!2024/06/03:19:28:43!0!",
+    "stringDetection": "Blackout Cheat"
+  },
+  {
+    "string": "!!cracked.exe!2024/07/08:23:42:07!0!",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "!2024/03/09:19:54:59",
+    "stringDetection": "redEngine Executor"
+  },
+  {
+    "string": "!2024/01/11:18:57:18",
+    "stringDetection": "KHUB Cheat"
+  },
+  {
+    "string": "!2023/06/02:16:00:18!0!",
+    "stringDetection": "KHUB Cheat"
+  },
+  {
+    "string": "!2024/04/24:08:41:58",
+    "stringDetection": "TZX Cheat"
+  },
+  {
+    "string": "!2011/12/23:10:59:31!7d6f3!",
+    "stringDetection": "dControl"
+  },
+  {
+    "string": "!2024/08/13:12:17:47",
+    "stringDetection": "Xenon Loader"
+  },
+  {
+    "string": "!2024/08/08:15:37:59",
+    "stringDetection": "Project Cheats"
+  },
+  {
+    "string": "!2024/02/11:09:54:52",
+    "stringDetection": "Skript Loader"
+  },
+  {
+    "string": "!2024/08/08:10:35:27",
+    "stringDetection": "TZ Loader"
+  },
+  {
+    "string": "!2024/02/29:02:10:02",
+    "stringDetection": "Eulen Cheats"
+  },
+  {
+    "string": "!2024/10/01:17:33:43",
+    "stringDetection": "777 Cheat Loader"
+  },
+  {
+    "string": "!2024/09/24:15:50:49",
+    "stringDetection": "Escape Serveice Free"
+  },
+  {
+    "string": "!2024/10/08:20:29:34",
+    "stringDetection": "Skript Loader"
+  },
+  {
+    "string": "!2024/10/15:16:49:05",
+    "stringDetection": "Keyser Cheat"
+  },
+  {
+    "string": "!2024/05/04:17:32:38",
+    "stringDetection": "Keyser HWID Grabber"
+  },
+  {
+    "string": "!2024/08/26:19:13:23",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "!2024/04/20:09:34:55",
+    "stringDetection": "TD Loader"
+  },
+  {
+    "string": "!2024/08/17:02:25:19",
+    "stringDetection": "Ambient Cheat"
+  },
+  {
+    "string": "!2024/06/08:19:16:48",
+    "stringDetection": "FlySide Cheat"
+  },
+  {
+    "string": "!2024/02/13:14:55:27",
+    "stringDetection": "SBS.CC Cheat"
+  },
+  {
+    "string": "!2024/07/12:23:06:05",
+    "stringDetection": "Mega PvP Cheat"
+  },
+  {
+    "string": "!2024/05/18:20:20:27",
+    "stringDetection": "HX Loader"
+  },
+  {
+    "string": "!2024/10/02:20:40:45",
+    "stringDetection": "Skript Loader"
+  },
+  {
+    "string": "api.kanzake.gay",
+    "stringDetection": "Monesy Bypass"
+  },
+  {
+    "string": "api.88-cheats.xyz",
+    "stringDetection": "88Cheats Connection"
+  },
+  {
+    "string": "vps-b7a11d64.vps.ovh.net",
+    "stringDetection": "Unicor Cheat"
+  },
+  {
+    "string": "fivem-projectcheats.com",
+    "stringDetection": "Project YX Connection"
+  },
+  {
+    "string": "skript.gg",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "http://ocsp.pki.goog/s/gts1p5/ghf_lTR8_n801",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "skript.gg0",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "http://ocsp.pki.goog/s/gts1p5/ghf_lTR8_n8",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "20231219164333Z0t0r0J0",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "GTS CA 1P50",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "https://pki.goog/repository/0",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "s.k.r.i.p.t...g.g",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "vps-32704700.vps.ovh.ca",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "http://crl.pki.goog/gtsr1/gtsr1.crl0M",
+    "stringDetection": "Skript Cheat"
+  },
+  {
+    "string": "pedrin.cc",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "three.pedrin",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "pedrin.ovh",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "pedrin.cc0",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "pedrin.cc0!",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "gosth.gg",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "api-three.pedrin.cc",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "ovh-01.pedrin.cc",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "131.196.198.50",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "cdn.gosth.ltd",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "cdn.gosth.lyd",
+    "stringDetection": "Gosth External"
+  },
+  {
+    "string": "hxsoftwares.com",
+    "stringDetection": "HX Software"
+  },
+  {
+    "string": "hxsoftwares.com0Y0",
+    "stringDetection": "HX Software"
+  },
+  {
+    "string": "*.hxsoftwares.com0",
+    "stringDetection": "HX Software"
+  },
+  {
+    "string": "api.hxsoftwares.com",
+    "stringDetection": "HX Software"
+  },
+  {
+    "string": "keyauth.win",
+    "stringDetection": "Keyauth Connection"
+  },
+  {
+    "string": "api-worker.keyauth.win",
+    "stringDetection": "Keyauth Connection"
+  },
+  {
+    "string": "api.projectcheats.com",
+    "stringDetection": "Project Cheats"
+  },
+  {
+    "string": "projectcheats.com",
+    "stringDetection": "Project Cheats"
+  },
+  {
+    "string": "api.blackout.wtf",
+    "stringDetection": "Blackout Cheat"
+  },
+  {
+    "string": "tzproject.com",
+    "stringDetection": "TZ/TZX Project Connection"
+  },
+  {
+    "string": "api.tzproject.com",
+    "stringDetection": "TZ/TZX Project Connection"
+  },
+  {
+    "string": "redengine.eu",
+    "stringDetection": "redEngine Connection"
+  },
+  {
+    "string": "auth.redengine.eu",
+    "stringDetection": "redEngine Connection"
+  },
+  {
+    "string": "wsauth.redengine.eu",
+    "stringDetection": "redEngine Connection"
+  },
+  {
+    "string": "khub.space",
+    "stringDetection": "KHUB Connection"
+  },
+  {
+    "string": "http_client.exe",
+    "stringDetection": "Suspicious File"
+  },
+  {
+    "string": "ec2-3-235-182-76.compute-1.amazonaws.com",
+    "stringDetection": "Eulen Connection"
+  },
+  {
+    "string": "ec2-3-235-182-74.compute-1.amazonaws.com",
+    "stringDetection": "Eulen Connection"
+  },
+  {
+    "string": "ec2-3-235-182-72.compute-1.amazonaws.com",
+    "stringDetection": "Eulen Connection"
+  },
+  {
+    "string": "ec2-3-235-182-71.compute-1.amazonaws.com",
+    "stringDetection": "Eulen Connection"
+  },
+  {
+    "string": "stoppedbypass.com",
+    "stringDetection": "Stopped Connection"
+  },
+  {
+    "string": "api.kanzake.gay",
+    "stringDetection": "Monesy Bypass"
+  },
+  {
+    "string": "api.88-cheats.xyz",
+    "stringDetection": "88Cheats Connection"
+  },
+  {
+    "string": "fivem-projectcheats.com",
+    "stringDetection": "Project YX Connection"
+  },
+  {
+    "string": "keyauth.win",
+    "stringDetection": "Keyauth Connection"
+  },
+  {
+    "string": "api-worker.keyauth.win",
+    "stringDetection": "Keyauth Connection"
+  },
+  {
+    "string": "api.blackout.wtf",
+    "stringDetection": "Blackout Cheat"
+  },
+  {
+    "string": "redengine.eu",
+    "stringDetection": "redEngine Connection"
+  },
+  {
+    "string": "auth.redengine.eu",
+    "stringDetection": "redEngine Connection"
+  },
+  {
+    "string": "wsauth.redengine.eu",
+    "stringDetection": "redEngine Connection"
+  },
+  {
+    "string": "khub.space",
+    "stringDetection": "KHUB Connection"
+  },
+  {
+    "string": "GET /smoothie HTTP/1.1",
+    "stringDetection": "Generic Cheat Injection - Injected HX Software in FiveM"
+  },
+  {
+    "string": "mxrcy.rar",
+    "stringDetection": "Xenon Loader"
+  },
+  {
+    "string": "!bypass",
+    "stringDetection": "Suspicious File"
+  },
+  {
+    "string": "StoppedBypass",
+    "stringDetection": "Suspicious File"
+  },
+  {
+    "string": "\\favorites.cfg",
+    "stringDetection": "Susano Config"
+  },
+  {
+    "string": "FarinhaMenuFree",
+    "stringDetection": "Generic Menu"
+  },
+  {
+    "string": "Veax EXT NEWW.exe",
+    "stringDetection": "Veax External"
+  },
+  {
+    "string": "!2024/12/05:18:50:32",
+    "stringDetection": "420 Cheat Loader"
+  },
+  {
+    "string": "0xe50000",
+    "stringDetection": "420 Cheat Loader"
+  },
+  {
+    "string": "!2024/10/30:21:49:32",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "0x2c6000",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "loader (9).exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "macrogamer.exe",
+    "stringDetection": "MacroGamer"
+  },
+  {
+    "string": "f4x regdit !!.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "!2024/06/21:00:15:36",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "Clean Fivem.bat",
+    "stringDetection": "Generic Cleaner"
+  },
+  {
+    "string": "Escape_Cleaner",
+    "stringDetection": "Escape Cleaner"
+  },
+  {
+    "string": "PvP-EscapeService.exe",
+    "stringDetection": "Escape Loader"
+  },
+  {
+    "string": "Pabbone-PvP.exe",
+    "stringDetection": "Escape Loader"
+  },
+  {
+    "string": "Infinite_stamina_by_GamboHub.rar",
+    "stringDetection": "Cheat RPF"
+  },
+  {
+    "string": "Fast_Run_1-3x_by_GamboHub.rar",
+    "stringDetection": "Cheat RPF"
+  },
+  {
+    "string": "No_Recoil_by_GamboHub.rar",
+    "stringDetection": "Cheat RPF"
+  },
+  {
+    "string": "\\FusionHacks",
+    "stringDetection": "Cheat Free"
+  },
+  {
+    "string": "dmamenu.exe",
+    "stringDetection": "DMA Menu [EXPERIMENTAL]"
+  },
+  {
+    "string": "SkylineEngine [ Free ].rar",
+    "stringDetection": "Skyline Engine"
+  },
+  {
+    "string": "SkylineEngine [ Free ].exe",
+    "stringDetection": "Skyline Engine"
+  },
+  {
+    "string": "!2024/10/22:21:37:30",
+    "stringDetection": "Skyline Engine"
+  },
+  {
+    "string": "0x38e0000",
+    "stringDetection": "Skyline Engine"
+  },
+  {
+    "string": "chicago.zip",
+    "stringDetection": "Hitbox Cheats - chicago.zip"
+  },
+  {
+    "string": "IdkWhatsGoingOn.exe",
+    "stringDetection": "redEngine Crack"
+  },
+  {
+    "string": "0x5b9000",
+    "stringDetection": "redEngine Crack"
+  },
+  {
+    "string": "Fivem-External (1).exe",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "!2024/09/05:00:21:21",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "0x694000",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "external.exe",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "!2024/11/07:15:48:25",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "0xf4000",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "CR-fastRun.rpf",
+    "stringDetection": "Cheat RPF"
+  },
+  {
+    "string": "favorities.cfg",
+    "stringDetection": "Susano Cheat"
+  },
+  {
+    "string": "ventiq.exe",
+    "stringDetection": "Cheat Free"
+  },
+  {
+    "string": "6767-Aimbot.rpf",
+    "stringDetection": "Cheat RPF"
+  },
+  {
+    "string": "Nebula-ExternalV2.exe",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "0x374000",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "!2024/12/06:21:35:02",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "0x121000",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "!2024/10/19:22:41:05",
+    "stringDetection": "Generic External"
+  },
+  {
+    "string": "McFivem.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "X48+v4.dll",
+    "stringDetection": "Generic DLL Cheat"
+  },
+  {
+    "string": "EZlauncher.exe",
+    "stringDetection": "Cheat Free"
+  },
+  {
+    "string": "msxml6.EXE",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "Nebula.exe",
+    "stringDetection": "Nebula Software"
+  },
+  {
+    "string": "Fast_Ladders_by_GamboHub.rar",
+    "stringDetection": "Generic AI Cheat"
+  },
+  {
+    "string": "LaddersFly_GamboHub.rar",
+    "stringDetection": "Generic AI Cheat"
+  },
+  {
+    "string": "Take_Half_Damage_by_GamboHub.rar",
+    "stringDetection": "Generic AI Cheat"
+  },
+  {
+    "string": "Damage_Boost_GamboHub.rar",
+    "stringDetection": "Generic AI Cheat"
+  },
+  {
+    "string": "NoReaload_GamboHub.rar",
+    "stringDetection": "Generic AI Cheat"
+  },
+  {
+    "string": "Faster_Aim_In_by_GamboHub.rar",
+    "stringDetection": "Generic AI Cheat"
+  },
+  {
+    "string": "Faster_einsteigen_by_GamboHub.rar",
+    "stringDetection": "Generic AI Cheat"
+  },
+  {
+    "string": "Shoot_Walls_by_GamboHub.rar",
+    "stringDetection": "Generic RPF Cheat"
+  },
+  {
+    "string": "Godmode_file_by_GamboHub.rar",
+    "stringDetection": "Generic AI Cheat"
+  },
+  {
+    "string": "grasslowsettings.bat",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "all_transparent_by__Gambohub.rar",
+    "stringDetection": "Generic AI Cheat"
+  },
+  {
+    "string": "!2024/02/13:05:21:10",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "0x127000",
+    "stringDetection": "Generic Free Cheat"
+  },
+  {
+    "string": "2024/02/25:02:31:24!0!",
+    "stringDetection": "Generic Free Cheat"
+  },
+  {
+    "string": "!2023/06/02:16:00:18",
+    "stringDetection": "Generic Free Cheat"
+  },
+  {
+    "string": "0x4b000",
+    "stringDetection": "Generic Free Cheat"
+  },
+  {
+    "string": "!2024/04/02:21:25:30",
+    "stringDetection": "Generic Free Cheat"
+  },
+  {
+    "string": "0x12de000",
+    "stringDetection": "Generic Free Cheat"
+  },
+  {
+    "string": "removereload.rpf",
+    "stringDetection": "Cheat RPF"
+  },
+  {
+    "string": "ExitCarFast.rpf",
+    "stringDetection": "Cheat RPF"
+  },
+  {
+    "string": "nvidia.dll",
+    "stringDetection": "Generic DLL Cheat"
+  },
+  {
+    "string": "X48.exe",
+    "stringDetection": "Generic Free Cheat"
+  },
+  {
+    "string": "mxcry_protectedd",
+    "stringDetection": "Evading Cheat"
+  },
+  {
+    "string": "mxcry_protectedd.exe",
+    "stringDetection": "Evading Cheat"
+  },
+  {
+    "string": "!2024/11/28:18:06:39",
+    "stringDetection": "Evading Cheat"
+  },
+  {
+    "string": "0x1fa1000",
+    "stringDetection": "Evading Cheat"
+  },
+  {
+    "string": "Silence V2.exe",
+    "stringDetection": "Silence Cheat"
+  },
+  {
+    "string": "Rx.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "Silence V2.rar",
+    "stringDetection": "Generic RaR Cheat"
+  },
+  {
+    "string": "Rx.rar",
+    "stringDetection": "Generic RaR Cheat"
+  },
+  {
+    "string": "Atikos.cc.exe",
+    "stringDetection": "Generic Cheat"
+  },
+  {
+    "string": "mxrcyprot.exe",
+    "stringDetection": "Evading Cheat"
+  },
+  {
+    "string": "Xenonv2.rar",
+    "stringDetection": "Xenon Cheat"
+  },
+  {
+    "string": "xenon-solution.xyz",
+    "stringDetection": "Xenon Cheat Connection"
+  },
+  {
+    "string": "Host: api.hxsoftwares.com",
+    "stringDetection": "Generic Cheat Injection - Injected HX Software in FiveM"
+  },
+  {
+    "string": "PakBypass.exe",
+    "stringDetection": "Pak Bypass"
+  },
+  {
+    "string": "frozerxsz.rar",
+    "stringDetection": "Frozer Client"
+  },
+  {
+    "string": "frozer-client.xyz",
+    "stringDetection": "Frozer Client Connection"
+  },
+  {
+    "string": "Keyseer Cracked.rar",
+    "stringDetection": "Keyser Cheat"
+  },
+  {
+    "string": "keycheese1.exe",
+    "stringDetection": "Keyser Cheat"
+  },
+  {
+    "string": "xoqrvu5u1bjzc.dll",
+    "stringDetection": "Generic DLL Cheat - xoqrvu5u1bjzc.dll"
+  },
+  {
+    "string": "keyser cracked.rar",
+    "stringDetection": "Keyser Loader"
+  },
+  {
+    "string": "keycheese1.exe",
+    "stringDetection": "Keyser Loader - keycheese1.exe"
+  },
+  {
+    "string": "keycheese.exe",
+    "stringDetection": "Keyser Loader - keycheese.exe"
+  },
+  {
+    "string": "eauth.us.to",
+    "stringDetection": "eAuth Connection"
+  },
+  {
+    "string": "mxrcyloader_protected2.8.rar",
+    "stringDetection": "Evading Cheat"
+  },
+  {
+    "string": "mxrcyloader_protected2.8.exe",
+    "stringDetection": "Evading Cheat"
+  },
+  {
+    "string": "https://ecstasy.zip/dashboard/misc",
+    "stringDetection": "Ecstasy Cheat"
+  },
+  {
+    "string": "https://ecstasy.zip/dashboard/aim",
+    "stringDetection": "Ecstasy Cheat"
+  },
+  {
+    "string": "ventiq.net",
+    "stringDetection": "VentiQ Cheat"
+  },
+  {
+    "string": "ventiq.exe",
+    "stringDetection": "VentiQ Cheat"
+  },
+  {
+    "string": "ventiq(1).exe",
+    "stringDetection": "VentiQ Cheat"
+  },
+  {
+    "string": "27k1m3.rar",
+    "stringDetection": "Generic Cheat Loader"
+  },
+  {
+    "string": "Free FiveM External",
+    "stringDetection": "Generic Exterenal"
+  },
+  {
+    "string": "51.222.88.200",
+    "stringDetection": "Xerlock Bypass"
+  },
+  {
+    "string": "Nemzzz - PTSD",
+    "stringDetection": "Xerlock Bypass"
+  },
+  {
+    "string": "\\c21.cpl",
+    "stringDetection": "Evading Bypass"
+  },
+  {
+    "string": "Extreme Injector v3.exe",
+    "stringDetection": "Extreme Injector v3"
+  },
+  {
+    "string": "PvPEscape.rar",
+    "stringDetection": "Escape Service"
+  },
+  {
+    "string": "machocheats.com",
+    "stringDetection": "Macho Cheats"
+  },
+  {
+    "string": "susano.re",
+    "stringDetection": "Susano Cheat"
+  },
+  {
+    "string": "C:\\\\Windows\\\\IME\\\\auth.json",
+    "stringDetection": "Keyser Cheat"
+  },
+  {
+    "string": "exora.cc",
+    "stringDetection": "Exora Cheat"
+  },
+  {
+    "string": "C:\\\\Program Files (x86)\\\\MSBuild\\\\Microsoft.exe",
+    "stringDetection": "Evading Overlay"
+  },
+  {
+    "string": "AppData\\\\Roaming\\\\fyne",
+    "stringDetection": "Generic Bypass"
+  },
+  {
+    "string": "miyalaaskim.sys",
+    "stringDetection": "Generic Cheat Loader"
+  },
+  {
+    "string": "sentinal.dev",
+    "stringDetection": "Evading Overlay"
+  },
+  {
+    "string": "mwbyte.com",
+    "stringDetection": "Generic Cheat Loader"
+  },
+  {
+    "string": "api.imber.dev",
+    "stringDetection": "FlySide Cheat"
+  },
+  {
+    "string": "nvcontai.art",
+    "stringDetection": "Xenon Cheat"
+  },
+  {
+    "string": "nvcontainerschedulertask.art",
+    "stringDetection": "Xenon Cheat"
+  },
+  {
+    "string": "stars_solution.exe",
+    "stringDetection": "Starts Solution Cheat"
+  },
+  {
+    "string": "wmic shadowcopy delete",
+    "stringDetection": "Shadow Copies Deletion"
+  },
+  {
+    "string": "<payload path> [*target path]",
+    "stringDetection": "Generic Process Hollowing"
+  },
+  {
+    "string": "farinhamenufree (2).exe",
+    "stringDetection": "Farinha Menu "
+  },
+  {
+    "string": "vps93241.serveur-vps.ne",
+    "stringDetection": "Susano Cheat"
+  },
+  {
+    "string": "keyauth.cc",
+    "stringDetection": "KeyAuth Connection"
+  },
+  {
+    "string": "reg delete hkey_current_user\\\\software\\\\microsoft\\\\windows\\\\currentversion\\\\explorer\\\\runmru /va /f",
+    "stringDetection": "Generic Regedit Deletion (RunMRU)"
+  },
+  {
+    "string": "start /MIN cmd.exe /C \\\"del %windir%\\\\Prefetch\"",
+    "stringDetection": "Generic Bypass (Prefetch Deletion)"
+  },
+  {
+    "string": "cmd.exe /C \\\"del %windir%\\\\Prefetch",
+    "stringDetection": "Generic Bypass (Prefetch Deletion)"
+  },
+  {
+    "string": "fsutil usn deletejournal /d c:",
+    "stringDetection": "Generic Bypass (Journal Deletion) - Disk: C:\\"
+  },
+  {
+    "string": "/c ping 1.1.1.1 -n 1 -w 3000 > nul & del /f /q",
+    "stringDetection": "Generic Bypass (Ping Deletion)"
+  },
+  {
+    "string": "/c ipconfig /flushdns",
+    "stringDetection": "Generic Bypass (DNS Deletion)"
+  },
+  {
+    "string": "ipconfig /flushdns",
+    "stringDetection": "Generic Bypass (DNS Deletion)"
+  },
+  {
+    "string": "vssadmin delete shadows /for=c: /all",
+    "stringDetection": "Generic Bypass (Shadows Copies Deletion)"
+  }
+]

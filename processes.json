@@ -1,0 +1,8 @@
+{"processName": "PcaSvc", "processState": "Stopped", "processStart": "22:28:07", "processWarnings": "Stopped"}
+{"processName": "DPS", "processState": "Running", "processStart": "22:25:11"}
+{"processName": "DiagTrack", "processState": "Stopped", "processStart": "22:28:07", "processWarnings": "Stopped"}
+{"processName": "SysMain", "processState": "Running", "processStart": "22:25:11"}
+{"processName": "CryptSvc", "processState": "Running", "processStart": "22:25:11"}
+{"processName": "EventLog", "processState": "Running", "processStart": "22:25:11"}
+{"processName": "Appinfo", "processState": "Stopped", "processStart": "22:28:07", "processWarnings": "Stopped"}
+{"processName": "BFE", "processState": "Running", "processStart": "22:25:12"}
